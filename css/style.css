@@ -1,0 +1,71 @@
+#space {
+    margin-top: 30px;
+}
+
+#classmates{ 
+    margin-top: 0rem;
+    margin-left: 0rem;
+    height: 20rem;
+}
+
+.brand-logo{
+    font-size: 130%;
+    margin-left: 5rem;
+}
+
+.responsive-img{
+    height: 27rem;
+    margin-left: 10px;
+}
+
+#pics {
+    margin-top: 30px;
+}
+ 
+#vids{
+    margin-top: 30px;
+}
+
+.image{
+    height: 30rem;
+}
+
+.contacttitle{
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+#contactcolor{
+    color: navy;
+}
+
+#contactinfo{
+    font-size: 17px;
+}
+
+#copyright{
+    text-align: center;
+    margin-top: 0px;
+    font-size: 1rem;
+}
+
+.button{
+    text-align: center;
+}
+
+.container{
+    margin-top: 1rem;
+}
+
+.white-text {
+    font-size: 0.9rem;
+}
+
+.collapsible-header{
+    background-color: lightsteelblue;
+}
+
+.collapsible-body{
+    background-color: black;
+}
+
